@@ -13,7 +13,7 @@ Nöbet listesi oluşturmak ve bunu çeşitli formatlara dönüştürme işlemini
 
 ## Personel İşlemleri Ekranı
 <p> Personel CRUD işlemlerini gerçekleştirebileceğimiz ekrandır. </p>
-<img src = "images/personel.PNG" width = "300" height = "200">
+<img src = "images/personel.PNG" width = "400" height = "200">
 
 ## İzin İşlemleri Ekranı
 <p> Personellerin izin durumlarını düzenleyebileceğimiz ve görüntüleyebileceğimiz ekrandır. </p>
