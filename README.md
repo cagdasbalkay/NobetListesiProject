@@ -21,4 +21,4 @@ Nöbet listesi oluşturmak ve bunu çeşitli formatlara dönüştürme işlemini
 
 ## Nöbet Listesi Ekranı
 <p> Burası uygulamamızın asıl amacını barındıran ekrandır. Bu ekranda manuel ya da otomatik şekilde nöbet listesi oluşturabilir. Tarihe göre nöbet listelerini görüntüleyebilir.Nöbet listesini temizleyebilir ya da farklı formatlarda dışarı aktarabiliriz. </p>
-<img src = "images/nobetlistesi.PNG" width = "300" height = "200">
+<img src = "images/nobetlistesi.PNG" width = "500" height = "300">
