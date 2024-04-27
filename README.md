@@ -5,4 +5,4 @@ Nöbet listesi oluşturmak ve bunu çeşitli formatlara dönüştürme işlemini
 
 ## Giriş Ekranı
 <p> Bu ekran, uygulama açılırken uygulama toparlanana kadar kullanıcının bir müddet beklemesini sağlayan bir ekrandır.Bu yönüyle projemize hem bir fonksiyonellik hem de tasarımsal olarak bir iyileştirme sunmaktadır. </p>
-<img src = "images/giris.PNG" width = "200" height = "100">
+<img src = "images/giris.PNG" width = "300" height = "200">
