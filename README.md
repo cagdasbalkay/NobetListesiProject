@@ -9,7 +9,7 @@ Nöbet listesi oluşturmak ve bunu çeşitli formatlara dönüştürme işlemini
 
 ## Geçiş Ekranı
 <p> Bu ekrandan yetki seviyemize göre diğer ekranlara geçiş yapabiliriz. </p>
-<img src = "images/gecis.PNG" width = "300" height = "200">
+<img src = "images/gecis.PNG" width = "400" height = "200">
 
 ## Personel İşlemleri Ekranı
 <p> Personel CRUD işlemlerini gerçekleştirebileceğimiz ekrandır. </p>
